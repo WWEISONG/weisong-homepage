@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a 3rd year Ph.D student in the Computer Science and Engineering (CSE) at UNSW, advised by [Professor Wen Hu] (https://research.unsw.edu.au/people/professor-wen-hu) and [Professor Chun Tung Chou] (https://research.unsw.edu.au/people/associate-professor-chun-tung-chou). 
+I am a 3rd year Ph.D student in the Computer Science and Engineering (CSE) at UNSW, advised by [Professor Wen Hu](https://research.unsw.edu.au/people/professor-wen-hu) and [Professor Chun Tung Chou](https://research.unsw.edu.au/people/associate-professor-chun-tung-chou). Before joining CSE, I received my M.S. in Information Technology at UNSW. My research interests are Cyber securiy, deep learning, and IoT. 
 {style="text-align: justify;"}
