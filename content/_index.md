@@ -132,7 +132,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Selected Publications
       filters:
         folders:
           - project
